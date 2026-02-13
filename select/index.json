@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Give It Up",
+  "base_artist": "CRX",
+  "createdAt": "2026-02-13T08:26:02.099954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "LCD Soundsystem",
+      "has_synced": false,
+      "path": "select/01_Give_It_Up_LCD_Soundsystem.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/02_Give_It_Up_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Got To Give It Up",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/03_Got_To_Give_It_Up_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Give It Up",
+      "artist": "The Blow Monkeys",
+      "has_synced": false,
+      "path": "select/04_Don't_Give_It_Up_The_Blow_Monkeys.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La La La (Never Give It Up)",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/05_La_La_La_(Never_Give_It_Up)_September.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Got To Give It Up",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/06_Got_To_Give_It_Up_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give It Up (The Dawning of Rejection)",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/07_Give_It_Up_(The_Dawning_of_Rejection)_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/08_Give_It_Up_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "Cut 'n' Move",
+      "has_synced": true,
+      "path": "select/09_Give_It_Up_Cut_'n'_Move.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/10_Give_It_Up_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Got To Give It Up",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/11_I_Got_To_Give_It_Up_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Got To Give It Up - Guitana Mix",
+      "artist": "Masterboy",
+      "has_synced": false,
+      "path": "select/12_I_Got_To_Give_It_Up_-_Guitana_Mix_Masterboy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give it Up",
+      "artist": "8mm",
+      "has_synced": false,
+      "path": "select/13_Give_it_Up_8mm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give It Up",
+      "artist": "MOTHERMARY",
+      "has_synced": false,
+      "path": "select/14_Give_It_Up_MOTHERMARY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give It Up",
+      "artist": "CRX",
+      "has_synced": false,
+      "path": "select/pl_01_Give_It_Up_CRX.txt"
+    }
+  ]
+}
